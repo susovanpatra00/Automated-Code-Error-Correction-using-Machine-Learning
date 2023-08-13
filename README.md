@@ -37,7 +37,5 @@ python predict.py --predict NEW_DATA
 ```
 
 ## References
-
-Relevant research papers and resources on automated program repair and error correction.
-
-Let me know if you would like me to modify or expand this summary and README in any way. I can add more details on the model, metrics, experiments, etc.
+- Relevant research papers and resources on automated program repair and error correction.
+- Different Machine Learning Models.
