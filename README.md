@@ -8,7 +8,7 @@ This project focuses on automatically correcting errors in programming code subm
 - Extracted bag-of-words features from raw code tokens and handled class imbalance in the training data
 - Developed a Python program to load sparse matrices, train the Logistic Regression model, and make predictions on new unseen code snippets
 - Tuned hyperparameters like max_iter and solver to optimize model performance
-- Achieved X% accuracy in predicting error types on test data
+- Achieved 87.4 % accuracy in predicting error types on test data
 
 ## Implementation 
 
