@@ -38,4 +38,4 @@ python predict.py --predict NEW_DATA
 
 ## References
 - Relevant research papers and resources on automated program repair and error correction.
-- Different Machine Learning Models.
+- Purushottam Kar (IITK)
