@@ -1,9 +1,4 @@
-# Automated-Code-Error-Correction-using-Machine-Learning
-
-This project is based on correction of code automatically using Machine Learning
-Here is a summary description and README for your GitHub repository:
-
-# Automated Code Error Correction
+# Automated Code Error Correction using Machine Learning
 
 This project focuses on automatically correcting errors in programming code submissions using machine learning techniques. The goal is to predict the most likely error types in erroneous C code snippets.
 
