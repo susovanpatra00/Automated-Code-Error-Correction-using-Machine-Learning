@@ -1,13 +1,3 @@
-'''
-	Package: cs771
-	Module: assn2Utils
-	Author: Puru
-	Institution: CSE, IIT Kanpur
-	License: GNU GPL v3.0
-	
-	Various utilities for multi-label learning problems
-'''
-
 import numpy as np
 from sklearn.datasets import load_svmlight_file
 from sklearn.datasets import dump_svmlight_file
